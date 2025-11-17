@@ -1,0 +1,12 @@
+body{
+    border: 1px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: white;
+    padding: 20px;
+}
+.quiniela{
+    border: 2px solid orangered;
+    width: 240px;
+    margin: 0 auto;
+    padding: 2px;
+}
