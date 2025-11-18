@@ -2,11 +2,47 @@ body{
     border: 1px;
     font-family: Arial, Helvetica, sans-serif;
     background-color: white;
-    padding: 20px;
+    padding: 10px;
+}
+
+.conteiner{
+
+    margin-left: 30%;
+    text-align: right;
+}
+
+.Sencillo{
+    text-align: center;
+    margin-left: 10%;
+}
+
+.conjunto{
+    display: inline;
+    display: flex;
+    flex-direction: row;
+}
+
+.imagen{
+    text-align: left;
+}
+
+.styled table{
+    border: 2px solid orangered;
+    min-width: 500px;
+    font-size: 1rem;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 25px auto;
+    padding: 2px;
+
 }
 .quiniela{
     border: 2px solid orangered;
-    width: 240px;
+    width: 10px;
     margin: 0 auto;
     padding: 2px;
 }
+
+.table{
+    border: 1px solid orangered;
+}
+
