@@ -5,21 +5,22 @@ body{
     padding: 10px;
 }
 
-.conteiner{
-
-    margin-left: 30%;
-    text-align: right;
-}
-
-.Sencillo{
-    text-align: center;
-    margin-left: 10%;
-}
-
-.conjunto{
-    display: inline;
+.contenedor-imagenes{
     display: flex;
-    flex-direction: row;
+    justify-content: space-between;
+}
+
+.imagen-izquierda{
+    margin-right: auto;
+}
+
+.imagen-centro{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.imagen-derecho{
+    margin-left: auto;
 }
 
 .imagen{
